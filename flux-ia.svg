@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 250" role="img" aria-labelledby="title desc">
+  <title id="title">Flux simplificat al predicției prin inteligență artificială</title>
+  <desc id="desc">Date trecute, model, predicție, validare și decizie.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2454d6"/><stop offset="1" stop-color="#0f8b8d"/></linearGradient></defs>
+  <rect width="980" height="250" rx="30" fill="#f6f8fb"/>
+  <g font-family="Arial, sans-serif">
+    <g fill="none" stroke="#9fb0c7" stroke-width="4" stroke-linecap="round">
+      <path d="M180 125H300"/><path d="M380 125H500"/><path d="M580 125H700"/><path d="M780 125H900"/>
+    </g>
+    <g fill="url(#g)">
+      <circle cx="110" cy="125" r="58"/><circle cx="340" cy="125" r="58"/><circle cx="540" cy="125" r="58"/><circle cx="740" cy="125" r="58"/><circle cx="900" cy="125" r="58"/>
+    </g>
+    <g fill="white" text-anchor="middle" font-weight="800" font-size="18">
+      <text x="110" y="119">Date</text><text x="110" y="142">trecute</text>
+      <text x="340" y="132">Model</text>
+      <text x="540" y="132">Predicție</text>
+      <text x="740" y="132">Validare</text>
+      <text x="900" y="132">Decizie</text>
+    </g>
+  </g>
+</svg>
